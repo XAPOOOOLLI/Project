@@ -459,7 +459,7 @@ html {
     font-weight:bold;
 }
 .telephone::before{
-    content: url("./images/usernavigationtel.png");
+    content: url("./images/telephone.png");
     margin-right:10px;
 }
 .user-navigation li{
@@ -494,7 +494,7 @@ html {
 font-size:14px;
 }
 .private::before{
-    content: url("./images/usernavigationprivate.jpg");
+    content: url("./images/private.jpg");
     padding:10px;
 }
 .private:hover{
@@ -506,17 +506,9 @@ font-size:14px;
 .backet:active{
     color:#989898;
 }
-.private:hover::before{
-    content: url("./images/usernavigationprivatehover.png");
-}
-.private:active::before{
-    content: url("./images/usernavigationprivateactiver.png"); 
-}
-.backet:active::before{
-    content: url("./images/usernavigationbacketfactive.png");
-}
+
 .backet::before{
-    content: url("./images/usernavigationbacket.jpg");
+    content: url("./images/backet.jpg");
     padding:10px;
 }
 .color2{
@@ -570,14 +562,7 @@ font-size:14px;
     background-image: url("./images/bgsecslider.jpg");
     background-repeat: no-repeat;
 }
-.slide2{
-    background-image: url("./images/bgsecslider2.jpg");
-    background-repeat: no-repeat;
-}
-.slide3{
-    background-image: url("./images/bgsecslider3.jpg");
-    background-repeat: no-repeat;
-}
+
 .content{
     width:1160px;
     height:465px;
@@ -692,27 +677,27 @@ font-size:14px;
     opacity: 0.5;
 }
 .infographiccontent .monoblock::before{
-    content: url("./images/infgrpmonob.jpg")
+    content: url("./images/block.jpg")
 }
 
 .infographiccontent .perefere::before{
-    content: url("./images/infgrpperef.jpg")
+    content: url("./images/perefer.jpg")
 }
 
 .infographiccontent .components::before{
-    content: url("./images/infgrpcomponents.jpg")
+    content: url("./images/component.jpg")
 }
 
 .infographiccontent .routers::before{
-    content: url("./images/infgrproutersf.jpg")
+    content: url("./images/routers.jpg")
 }
 
 .infographiccontent .lamps::before{
-    content: url("./images/infgrplamp.jpg")
+    content: url("./images/lamp.jpg")
 }
 
 .infographiccontent .games::before{
-    content: url("./images/infgrpgame.jpg")
+    content: url("./images/game.jpg")
 }
 .infographic{
     margin-bottom:48px;
@@ -916,7 +901,7 @@ font-size:14px;
     font-size:14px;
 }
 .private2::before{
-    content: url("./images/usernavigationprivatef.jpg");
+    content: url("./images/privatef.jpg");
     padding-top:20px;
 }
 .backet2{
@@ -924,7 +909,7 @@ font-size:14px;
     font-size:14px;
 }
 .backet2::before{
-    content: url("./images/usernavigationbacketf.jpg");
+    content: url("./images/backetf.jpg");
     padding:10px;
 }
 
@@ -970,15 +955,15 @@ font-size:14px;
     margin-bottom:10px;
 }
 .twitter::before{
-    content: url("./images/socialnetworkandrightsеtwet.jpg");
+    content: url("./images/twitter.jpg");
 }
 .vk::before{
-    content: url("./images/socialnetworkandrightsеvk.jpg");
+    content: url("./images/vk.jpg");
 }
 .facebook::before{
-    content: url("./images/socialnetworkandrightsеfc.jpg");
+    content: url("./images/fb.jpg");
 }
 .mail::before{
-    content: url("./images/socialnetworkandrightsеmail.jpg");
+    content: url("./images/mail.jpg");
 }
 
